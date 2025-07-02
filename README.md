@@ -1,11 +1,8 @@
 ## Hi there 👋
 
 👋 Hi, I’m @Bnet4nh-03
-
 👀 I’m currently looking for job opportunities
-
 🔭 Exploring Arduino (C++), MicroPython, web development, Flutter, and maybe Linux
-
 🌱 Never stop learning!
 
 <!--
