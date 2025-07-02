@@ -1,9 +1,9 @@
 ## Hi there 👋
 
--👋 Hi, I’m @Bnet4nh-03
--👀 I’m currently looking for job opportunities
--🔭 Exploring Arduino (C++), MicroPython, web development, Flutter, and maybe Linux
--🌱 Never stop learning!
+- 👋 Hi, I’m @Bnet4nh-03  
+- 👀 I’m currently looking for job opportunities  
+- 🔭 Exploring Arduino (C++), MicroPython, web development, Flutter, and maybe Linux  
+- 🌱 Never stop learning!
 
 <!--
 **Bnet4nh-03/Bnet4nh-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
